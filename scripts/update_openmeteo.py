@@ -7,7 +7,7 @@ import sys
 from datetime import datetime, timedelta, date
 
 LAT, LON = 38.5692, -8.9014
-OUTFILE = '/Users/chandadiwakar/Downloads/Smart Produce/data/open_meteo.csv'
+OUTFILE = '/Users/chandadiwakar/Desktop/SmartProduce/data/open_meteo.csv'
 CHUNK_DAYS = 30
 OPENMETEO_API = 'https://archive-api.open-meteo.com/v1/archive'
 NASA_POWER_DAILY = 'https://power.larc.nasa.gov/api/temporal/daily/point'
